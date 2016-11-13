@@ -101,6 +101,7 @@ var gameLayer = cc.Layer.extend({
                     onTouchMoved: this.onTouchMoved,
                     onTouchEnded: this.onTouchEnded
                 }, this);
+                
 
         return true;
 
